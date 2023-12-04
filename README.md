@@ -2,16 +2,16 @@
 
 
 
-Hello I'm Mehmet from Türkiye, I'm 28. I'm **experienced** in mobile and web development with Flutter and Vue.js. I'm also **interested** in machine learning and artificial intelligence. 
+Hello I'm Mehmet from Türkiye, I'm 28. I'm **experienced** in mobile and web development with Flutter and Vue.js. I'm also **interested** in machine learning and artificial intelligence.
 
-I'm currently working on my own project that is an e-commerce platform for AI based services. 
+I'm currently working on my own project that is an e-commerce platform for AI based services.
 
 **I am `open to work`**
 
 
 ### Open Source Projects:
 
-- [**Dashboard &nbsp; (148⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter. 
+- [**Dashboard &nbsp; (148⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter.
 - [**Style Cron Job &nbsp; (47⭐)**](https://pub.dev/packages/style_cron_job) : Periodic task syntax / runner package for Dart.
 - [**Binary Tree &nbsp; (26⭐)**](https://pub.dev/packages/binary_tree) : Self balancing binary tree tools package for Dart.
 - [**Style &nbsp; (25⭐)**](https://pub.dev/packages/style_random) : Backend framework written in Dart. Archived because it did not attract enough attention.
@@ -296,6 +296,42 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Mehmetyaz&theme=onestar&no-frame=true&column=3&row=2)
 
 -->
+
+
+
+<details>
+
+  <summary> 
+     <h2>Flutter</h2>
+  </summary>
+
+**_This space is dedicated to Flutter_**
+
+#### Highlights
+
+- **Contributor**: I've been trying to contribute to the Flutter community almost since day one. I've been trying to contribute to the Flutter community almost since day one. I wrote articles on Medium and created open source libraries.
+- **From the beginning**: I have been developing mobile applications with Flutter since one of its first stable versions.
+- **Experience**: I have developed and publish Flutter applications for both Android and iOS platforms. I also gave in to my curiosity and learned dart in depth by working with various libraries such as the ``analyzer``.
+
+#### Projects
+
+- **Congress App**: For the company I work for, I developed a mobile application that allows 6 different designs and unlimited color palettes, working with a single backend, to be sold to multiple customers. This application also included services such as Notification etc. It also had to respond to customers' special requests without making changes to the codes of our main application. By creating an architecture from scratch for this application, I developed an application that meets all kinds of special requests and works stably.
+- **Altogic**: I have developed many mobile applications for Altogic. I also led Altogic's Flutter community.
+- **Dashboard**: I developed a dashboard package for Flutter. This package allows you to create dynamic dashboards with a basic configuration.
+
+
+#### Questions About Flutter
+
+- **Which State Management Solution Do You Prefer?**: I prefer to answer this question with many questions such as "which project", "what are their needs" etc. Depending on our needs, if necessary, Bloc, if not, another one in an architecture that we will design according to our current needs or even without any state management solution (setState and notifiers is very good solution).
+- **Can you create a complex animation?**: Yes, I can. I have created many complex animations. I can use ``CustomPainter`` and ``CustomClipper`` and I can code mathematical calculations.
+- **Can you create a complex UI?**: Yes, I can.
+- **Can you create an architecture?**: Yes, I can. I can create an architecture that can be used in large projects.
+- **Can you create a package?**: Yes, I can. I have created many packages.
+- **Can you create a plugin?**: Yes. But I don't have much experience in this regard.
+
+
+</details>
+
 
 
 ### I like:

@@ -333,6 +333,14 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 </details>
 
 
+### Focus:
+
+**Main:** Finding a job / Working for my company.
+
+**Side:**
+* Finishing my project successfully.
+* Learning ML related tools(python, pytorch etc.) and disciplines(linear algebra etc.).
+* Contributing more to the Flutter community.
 
 ### I like:
 

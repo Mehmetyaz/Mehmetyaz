@@ -58,12 +58,12 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 
 
 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="express-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
     &nbsp;&nbsp;  
@@ -78,7 +78,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="cpp-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
     &nbsp;&nbsp;  

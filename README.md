@@ -301,7 +301,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 ### I like:
 
 - **🧑‍🏫 Learning** : I like learning new things. I am currently learning ``Machine Learning``, ``Artificial Intelligence``, ``Python``, ``PyTorch``, ``Numpy``.
-- **🎮 Gaming** : I like playing games. I usually play games related to history or structuring something (``City builder``, ``Strategy``, ``Tycoon Games`` etc.). I am a big fan of the `Railroad Tycoon` series ang ``Going Medieval``.
+- **🎮 Gaming** : I like playing games. I usually play games related to history or structuring something (``City builder``, ``Strategy``, ``Tycoon Games`` etc.). I am a big fan of the `Railroad Tycoon` series and ``Going Medieval``.
 - **🎥 Watching** : I like watching documentaries related to ``history``, ``geography``, ``anthropology``.
 - **🧘‍♂️ Meditation** : I like meditation. I meditate 10 minutes every day.
 - **🌿 Nature**: I like to be, watch, camp and live in environments isolated from humanity. (I need only internet connection!)

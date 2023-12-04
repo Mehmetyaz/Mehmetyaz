@@ -289,6 +289,15 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 </p>
 
 
+
+<!--
+![Top-Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Mehmetyaz&show_icons=true&theme=dark&locale=en&layout=compact)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mehmetyaz&theme=onestar&no-frame=true&column=3&row=2)
+
+-->
+
+
 ### I like:
 
 - **🧑‍🏫 Learning** : I like learning new things. I am currently learning ``Machine Learning``, ``Artificial Intelligence``, ``Python``, ``PyTorch``, ``Numpy``.
@@ -306,3 +315,6 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 - [**Medium**](https://medium.com/@mehmet-yaz)
 
 🗺️ Istanbul / Turkey & Sakarya / Turkey
+
+
+

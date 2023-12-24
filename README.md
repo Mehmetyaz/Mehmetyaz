@@ -11,7 +11,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 
 ### Open Source Projects:
 
-- [**Dashboard &nbsp; (148⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter.
+- [**Dashboard &nbsp; (154⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter.
 - [**Style Cron Job &nbsp; (47⭐)**](https://pub.dev/packages/style_cron_job) : Periodic task syntax / runner package for Dart.
 - [**Binary Tree &nbsp; (26⭐)**](https://pub.dev/packages/binary_tree) : Self balancing binary tree tools package for Dart.
 - [**Style &nbsp; (25⭐)**](https://pub.dev/packages/style_random) : Backend framework written in Dart. Archived because it did not attract enough attention.

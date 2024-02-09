@@ -11,7 +11,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 
 ### Open Source Projects:
 
-- [**Dashboard &nbsp; (154⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter.
+- [**Dashboard &nbsp; (163⭐)**](https://pub.dev/packages/dashboard) : Dynamic dashboard package for Flutter.
 - [**Style Cron Job &nbsp; (47⭐)**](https://pub.dev/packages/style_cron_job) : Periodic task syntax / runner package for Dart.
 - [**Binary Tree &nbsp; (26⭐)**](https://pub.dev/packages/binary_tree) : Self balancing binary tree tools package for Dart.
 - [**Style &nbsp; (25⭐)**](https://pub.dev/packages/style_random) : Backend framework written in Dart. Archived because it did not attract enough attention.
@@ -38,17 +38,18 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/5.svg" alt="dart-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
-  <a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" width="40" height="40"  />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="node-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
-  <a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="ts-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a>
+  
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  alt="js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="js-b"  height="40" width="20" />
     &nbsp;&nbsp;
@@ -58,26 +59,30 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 
 
 
-  <a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="express-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a>
+  
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
-  <a>
+  
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt"  height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="nuxt-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="cpp" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="cpp-b"  height="40" width="20" />
+  
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="tailwind-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
+  
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />

@@ -78,31 +78,32 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
   </a>
   
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="tailwind-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
   
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="vue" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
+  <a href="https://tr.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="html5-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
   <br/>
   <br/>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="nuxt"  height="40" width="40"/>
-    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/2.svg" alt="nuxt-b"  height="40" width="20" />
+  
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"  height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/2.svg" alt="css-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
-  <a>
+  <a href="cpp">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="cpp" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/2.svg" alt="cpp-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="vue" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
+  <a href="bash" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="bash-b"  height="40" width="20" />
     &nbsp;&nbsp;  
   </a>
   <br/>
@@ -115,12 +116,12 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 ###### _Learning in progress._
 
 <p align="left">
-  <a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/2.svg" alt="python-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  <a>
+  <a href="https://pytorch.org/"  target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="cpp" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/1.svg" alt="cpp-b"  height="40" width="20" />
     &nbsp;&nbsp;

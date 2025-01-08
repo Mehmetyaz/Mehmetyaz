@@ -27,11 +27,11 @@ COPY --from=builder /app/package*.json ./
 RUN npm ci --only=production
 
 # Expose the port the app runs on
-EXPOSE 3000
+EXPOSE 8080
 
 # Set environment variables
 ENV HOST=0.0.0.0
-ENV PORT=3000
+ENV PORT=8080
 ENV NODE_ENV=production
 
 # Start the application

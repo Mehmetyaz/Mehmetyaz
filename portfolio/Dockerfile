@@ -19,8 +19,8 @@ FROM node:20-alpine
 WORKDIR /app
 
 # Copy built assets from builder
-COPY --from=builder /app/.output ./
-COPY --from=builder /app/.nuxt ./
+COPY --from=builder /app/.output ./.output
+COPY --from=builder /app/.nuxt ./.nuxt
 COPY --from=builder /app/package*.json ./
 
 # Install only production dependencies

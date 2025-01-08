@@ -32,6 +32,7 @@ EXPOSE 8080
 # Set environment variables
 ENV HOST=0.0.0.0
 ENV PORT=8080
+ENV NITRO_PORT=8080
 ENV NODE_ENV=production
 
 # Start the application

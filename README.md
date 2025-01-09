@@ -1,13 +1,10 @@
 ### Mehmet Yaz 👋
 
-
-
 Hello I'm Mehmet from Türkiye, I'm 28. I'm **experienced** in mobile and web development with Flutter and Vue.js. I'm also **interested** in machine learning and artificial intelligence.
 
 I'm currently working on my own project that is an e-commerce platform for AI based services.
 
 **I am `open to work`**
-
 
 ### Open Source Projects:
 
@@ -17,15 +14,16 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 - [**Style &nbsp; (25⭐)**](https://pub.dev/packages/style_random) : Backend framework written in Dart. Archived because it did not attract enough attention.
 - [**Style Random &nbsp; (19⭐)**](https://pub.dev/packages/style_dart) : Random string generator package for Dart.
 
+Check out my website [here](https://mehmetyaz.com)
 
-
+<!--
 ###  Languages and Frameworks:
 
 #### Used:
 
 ###### _Used in at least one project._
 
-<p align="left"> 
+<p align="left">
 
 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -36,19 +34,19 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart"  width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/5.svg" alt="dart-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="node" width="40" height="40"  />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="node-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="ts-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  
+
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  alt="js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="js-b"  height="40" width="20" />
@@ -64,37 +62,37 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/4.svg" alt="express-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  
+
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="vue-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
-  
+
   <a href="https://nuxt.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt"  height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="nuxt-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
-  
+
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="tailwind-b"  height="40" width="20" />
     &nbsp;&nbsp;
   </a>
-  
+
   <a href="https://tr.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="html5-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
   <br/>
   <br/>
-  
+
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"  height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/2.svg" alt="css-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
   <a href="cpp">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="cpp" width="40" height="40" />
@@ -104,7 +102,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
   <a href="bash" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="bash-b"  height="40" width="20" />
-    &nbsp;&nbsp;  
+    &nbsp;&nbsp;
   </a>
   <br/>
   <br/>
@@ -248,7 +246,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
         <img src="https://raw.githubusercontent.com/Mehmetyaz/Mehmetyaz/master/tools/bars/3.svg" alt="figma-b"  height="40" width="20" />
         &nbsp;&nbsp;
-</a>    
+</a>
 
 <a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" />
@@ -293,8 +291,7 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
     &nbsp;&nbsp;
   </a>
 </p>
-
-
+ -->
 
 <!--
 ![Top-Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Mehmetyaz&show_icons=true&theme=dark&locale=en&layout=compact)
@@ -303,11 +300,11 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 
 -->
 
-
+<!--
 
 <details>
 
-  <summary> 
+  <summary>
      <h2>Flutter</h2>
   </summary>
 
@@ -364,7 +361,4 @@ I'm currently working on my own project that is an e-commerce platform for AI ba
 - [**Twitter**](https://twitter.com/smehmetyaz)
 - [**Medium**](https://medium.com/@mehmet-yaz)
 
-🗺️ Istanbul / Turkey & Sakarya / Turkey
-
-
-
+🗺️ Istanbul / Turkey & Sakarya / Turkey -->

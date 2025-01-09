@@ -912,7 +912,7 @@ onMounted(() => {
                                         <div class="space-y-3">
                                             <h4 class="text-sm uppercase tracking-wider text-gray-400 mb-4">Download as
                                             </h4>
-                                            <a href="/Mehmet-Yaz-01-25-CV.pdf" download
+                                            <a href="/Mehmet-YAZ-01-25-CV.pdf" download
                                                 class="w-full px-4 py-3 bg-[#00FF95]/10 hover:bg-[#00FF95]/20 text-[#00FF95] rounded-lg backdrop-blur-sm transition-all duration-300 flex items-center gap-3 border border-[#00FF95]/20">
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                                     viewBox="0 0 24 24" stroke="currentColor">
@@ -922,7 +922,7 @@ onMounted(() => {
                                                 </svg>
                                                 PDF Format
                                             </a>
-                                            <a href="/Mehmet-Yaz-01-25-CV.docx" download
+                                            <a href="/Mehmet-YAZ-01-25-CV.docx" download
                                                 class="w-full px-4 py-3 bg-[#00FF95]/10 hover:bg-[#00FF95]/20 text-[#00FF95] rounded-lg backdrop-blur-sm transition-all duration-300 flex items-center gap-3 border border-[#00FF95]/20">
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                                     viewBox="0 0 24 24" stroke="currentColor">
@@ -937,7 +937,7 @@ onMounted(() => {
                                         <!-- Preview Option -->
                                         <div class="space-y-3">
                                             <h4 class="text-sm uppercase tracking-wider text-gray-400 mb-4">Preview</h4>
-                                            <a href="/Mehmet-Yaz-01-25-CV.pdf" target="_blank"
+                                            <a href="/Mehmet-YAZ-01-25-CV.pdf" target="_blank"
                                                 class="w-full px-4 py-3 bg-gray-800/50 hover:bg-gray-800/70 text-gray-300 rounded-lg backdrop-blur-sm transition-all duration-300 flex items-center gap-3 border border-gray-700/30">
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                                                     viewBox="0 0 24 24" stroke="currentColor">
